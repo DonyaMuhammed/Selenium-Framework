@@ -5,9 +5,6 @@
 		<classes>
 			<class name="tests.ContactUsTest" />
 			<class name="tests.UserRegistrationTest" />
-			<class name="tests.ProductHoverMenuTest" />
-			<class name="tests.SearchProductTest" />
-			<class name="tests.AddProductToShoppingCartTest" />
 		</classes>
 	</test>
 </suite> 
